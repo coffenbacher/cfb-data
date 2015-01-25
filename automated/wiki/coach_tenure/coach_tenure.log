@@ -29,10 +29,12 @@ WARNING:root:ISSUE DETECTED: Tom Hayes could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Mike Yurcich is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Glenn Spencer is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Dick Bumpas is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Joe Wickline is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Mike Smith is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Tony Gibson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Tim Banks is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Jim Harbaugh is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Matt Limegrover is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Hank Hughes is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Mick McCall is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Tim Beck could not be found in disambiguation page
@@ -78,11 +80,11 @@ WARNING:root:ISSUE DETECTED: Kevin Cosgrove is not about a football coach and th
 WARNING:root:ISSUE DETECTED: Luke Wells is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Chris Ball is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Brian Lindgren is not about a football coach and there is no disambiguation page
+VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Lance Anderson is a football page but no mention of coach
 WARNING:root:ISSUE DETECTED: Lance Anderson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Jeff Ulbrich is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Justin Wilcox is valid page but no information extracted
-VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Alex Grinch is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Robb Smith is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Geoff Collins is not about a football coach and there is no disambiguation page
@@ -100,6 +102,7 @@ WARNING:root:ISSUE DETECTED: Lorenzo Ward is valid page but no information extra
 WARNING:root:ISSUE DETECTED: Frank Ponce is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Blake Anderson is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Walt Bell is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Joe Cauthen is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Jack Curtis could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Jay Johnson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Melvin Smith could not be found in disambiguation page
@@ -146,8 +149,3 @@ WARNING:root:ISSUE DETECTED: {'position': u'QB', 'endyear': u'96', 'name': u'And
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'1989\n* 1990\n* 1991', 'name': u'Trent Miles', 'startyear': u'{{plainlist |\n* 1987\n* 1988', 'team': u''}
 WARNING:root:ISSUE DETECTED: {'position': u'QB', 'endyear': u'1983', 'name': u'Todd Berry', 'startyear': u'1983', 'team': u'Tennessee (TE)Tulsa (WR)Oklahoma State'}
 WARNING:root:ISSUE DETECTED: {'position': u'DC', 'endyear': u'1978<small>&nbsp;</small>', 'name': u'Larry Coyer', 'startyear': u'1978<small>&nbsp;</small>', 'team': u'Oklahoma Sate'}
-VERBOSE:pywiki:Dropped throttle(s).
-VERBOSE:pywiki:Waiting for 1 network thread(s) to finish. Press ctrl-c to abort
-VERBOSE:pywiki:All threads finished.
-WARNING: Configuration variable 'use_api_login' is defined but unknown.
-Misspelled?
