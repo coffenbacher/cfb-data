@@ -1,6 +1,13 @@
-Al Borges,Salinas HS,HC,1975,1978
-Al Borges,Pleasant Valley HS,HC,1979,1980
-Al Borges,Salinas HS,HC,1981,1981
+Aaron Roderick,BYU,GA,1999,2001
+Aaron Roderick,Snow JC,RB,2002,2002
+Aaron Roderick,Southern Utah,OC/QB/WR,2003,2004
+Aaron Roderick,Utah,WR,2005,2009
+Aaron Roderick,Utah,HC,2010,2010
+Aaron Roderick,Utah,WR,2011,2011
+Aaron Roderick,Utah,PGC/WR,2012,2014
+Al Borges,Salinas (CA) HS,HC,1975,1978
+Al Borges,"Pleasant Valley HS (Chico, CA)",HC,1979,1980
+Al Borges,Salinas (CA) HS,HC,1981,1981
 Al Borges,California,HC,1982,1982
 Al Borges,Diablo Valley CC,TE/WR,1983,1984
 Al Borges,Boise State,OC,1986,1992
@@ -11,6 +18,7 @@ Al Borges,Indiana,OC,2001,2001
 Al Borges,Auburn,OC,2002,2003
 Al Borges,San Diego State,OC,2004,2007
 Al Borges,Michigan,OC,2009,2010
+Al Borges,San Jose State,OC/QB,2011,2013
 Al Golden,Red Bank Catholic HS (NJ),OC,1993,1993
 Al Golden,Virginia,GA,1994,1996
 Al Golden,Boston College,LB,1997,1999
@@ -36,13 +44,14 @@ Art Briles,Stephenville HS,TX,1988,1999
 Art Briles,Texas Tech,RB,2000,2002
 Art Briles,Houston,HC,2003,2007
 Art Briles,Baylor,HC,2008,2015
-Art Kaufman,Northwestern State,LB,1983,1986
+Art Kaufman,Delta State,GA,1982,1982
+Art Kaufman,Northwestern State,OLB,1983,1986
 Art Kaufman,Northwestern State,DC/LB,1987,1987
-Art Kaufman,Ole Miss,OLB/DE,1988,1992
-Art Kaufman,Louisiana Tech,DC/LB,1993,1994
+Art Kaufman,Ole Miss,OLB/DE,1988,1991
+Art Kaufman,Louisiana Tech,DC/LB,1992,1994
 Art Kaufman,Ole Miss,DC/LB,1995,2000
 Art Kaufman,Arkansas Tech,DC/LB,2001,2002
-Art Kaufman,East Carolina,DC/LB,2003,2004
+Art Kaufman,East Carolina,LB,2003,2004
 Art Kaufman,Middle Tennessee,LB,2005,2007
 Art Kaufman,Southern Miss,DL/ST,2008,2008
 Art Kaufman,North Carolina,LB,2009,2010
@@ -140,11 +149,15 @@ Bobby Wilder,Maine,QB,1990,1999
 Bobby Wilder,Maine,OC,2000,2006
 Bobby Wilder,Old Dominion,HC,2009,2015
 Brent Key,Georgia Tech,GA,2001,2002
-Brent Key,Western Carolina,TE,2004,2004
+Brent Key,Western Carolina,TE/RB,2004,2004
 Brent Key,UCF,GA,2005,2005
-Brent Key,UCF,TE/RC,2006,2008
-Brent Key,UCF,OL/RC,2009,2013
-Brent Key,UCF,AHC/OL/RC,2014,2015
+Brent Key,UCF,TE,2006,2006
+Brent Key,UCF,RC,2007,2007
+Brent Key,UCF,TE/ST,2008,2008
+Brent Key,UCF,OL,2009,2009
+Brent Key,UCF,OL/RC,2010,2011
+Brent Key,UCF,AHC/OL/RC,2012,2014
+Brent Key,UCF,OC/RB,2015,2015
 Bret Bielema,Iowa,GA,1994,1995
 Bret Bielema,Iowa,LB,1996,2001
 Bret Bielema,Kansas State,HC,2002,2003
@@ -207,7 +220,7 @@ Bronco Mendenhall,Snow College,HC,1991,1992
 Bronco Mendenhall,Northern Arizona,DB,1993,1993
 Bronco Mendenhall,Northern Arizona,HC,1994,1994
 Bronco Mendenhall,Oregon State,DL,1995,1995
-Bronco Mendenhall,Oregon State,DC,1996,1996
+Bronco Mendenhall,Oregon State,DC/DB,1996,1996
 Bronco Mendenhall,Louisiana Tech,DB,1997,1997
 Bronco Mendenhall,New Mexico,HC,1998,2001
 Bronco Mendenhall,New Mexico,HC,2002,2002
@@ -218,7 +231,7 @@ Bronco Mendenhall,Snow College,HC,1991,1992
 Bronco Mendenhall,Northern Arizona,DB,1993,1993
 Bronco Mendenhall,Northern Arizona,HC,1994,1994
 Bronco Mendenhall,Oregon State,DL,1995,1995
-Bronco Mendenhall,Oregon State,DC,1996,1996
+Bronco Mendenhall,Oregon State,DC/DB,1996,1996
 Bronco Mendenhall,Louisiana Tech,DB,1997,1997
 Bronco Mendenhall,New Mexico,HC,1998,2001
 Bronco Mendenhall,New Mexico,HC,2002,2002
@@ -247,14 +260,15 @@ Butch Jones,Cincinnati,HC,2010,2012
 Butch Jones,Tennessee,HC,2013,2015
 Calvin Magee,Tampa Catholic HS (FL),AHC/OC,1990,1995
 Calvin Magee,South Florida,TE,1996,1996
-Calvin Magee,South Florida,RB,1997,2000
-Calvin Magee,West Virginia,RB,2001,2004
-Calvin Magee,West Virginia,OC,2005,2007
-Calvin Magee,West Virginia,AHC/OC,2007,2007
-Calvin Magee,Michigan,OC,2008,2010
+Calvin Magee,South Florida,RB,1997,1998
+Calvin Magee,South Florida,RGC/RB,1999,2000
+Calvin Magee,West Virginia,RB,2001,2006
+Calvin Magee,West Virginia,OC/RB,2005,2006
+Calvin Magee,West Virginia,AHC/OC/RB,2007,2007
+Calvin Magee,Michigan,OC/RB,2008,2010
 Calvin Magee,Pittsburgh,HC,2011,2011
 Calvin Magee,Arizona,HC,2012,2015
-Cam Cameron,Michigan,GA,1983,1984
+Cam Cameron,Michigan,GA,1984,1984
 Cam Cameron,Michigan,WR/QB,1985,1993
 Cam Cameron,Washington Redskins,QB,1994,1996
 Cam Cameron,Indiana,HC,1997,2001
@@ -351,17 +365,23 @@ Chris Petersen,Oregon,WR,1995,2000
 Chris Petersen,Boise State,OC,2001,2005
 Chris Petersen,Boise State,HC,2006,2013
 Chris Petersen,Washington,HC,2014,2015
-Chuck Amato,Easton Area HS (PA),GA,1969,1970
-Chuck Amato,NC State,HC,1971,1980
+Chuck Amato,Easton Area HS (PA),Assistant,1969,1970
+Chuck Amato,NC State,GA,1971,1972
+Chuck Amato,NC State,DB,1973,1975
+Chuck Amato,NC State,DC/LB,1976,1979
 Chuck Amato,Arizona,LB,1980,1981
-Chuck Amato,Florida State,HC,1981,1999
+Chuck Amato,Florida State,DL,1982,1985
+Chuck Amato,Florida State,AHC/DL,1986,1995
+Chuck Amato,Florida State,AHC/LB,1996,1999
 Chuck Amato,NC State,HC,2000,2006
-Chuck Amato,Florida State,LB,2007,2009
-Chuck Amato,Akron,DC,2012,2015
-Chuck Bresnahan,Navy,GA,1986,1987
-Chuck Bresnahan,Georgia Tech,GA,1988,1991
+Chuck Amato,Florida State,EHC,2007,2009
+Chuck Amato,Akron,AHC/DC,2012,2015
+Chuck Bresnahan,Navy,GA,1983,1983
+Chuck Bresnahan,Navy,WR/TE/ST,1986,1987
+Chuck Bresnahan,Georgia Tech,TE,1988,1988
+Chuck Bresnahan,Georgia Tech,ILB,1889,1991
 Chuck Bresnahan,Maine,DC/LB,1992,1993
-Chuck Bresnahan,Cleveland Browns,LB,1994,1995
+Chuck Bresnahan,Cleveland Browns,LB/QC,1994,1995
 Chuck Bresnahan,Indianapolis Colts,LB,1996,1997
 Chuck Bresnahan,Oakland Raiders,DB,1998,1999
 Chuck Bresnahan,Oakland Raiders,DC,2000,2003
@@ -371,7 +391,8 @@ Chuck Bresnahan,Florida Tuskers,LB,2009,2009
 Chuck Bresnahan,Florida Tuskers,DC,2010,2010
 Chuck Bresnahan,Oakland Raiders,DC,2011,2011
 Chuck Bresnahan,Sacramento Mountain Lions,DC,2012,2012
-Chuck Bresnahan,South Florida,DC,2013,2014
+Chuck Bresnahan,USF,DC,2013,2014
+Chuck Bresnahan,UCF,DC/LB,2015,2015
 Chuck Heater,Northern Arizona,RB,1976,1976
 Chuck Heater,Toledo,RB,1977,1978
 Chuck Heater,Toledo,DB,1979,1981
@@ -442,8 +463,10 @@ D.J. Durkin,Florida,DC/LB,2013,2014
 D.J. Durkin,Florida,HC,2014,2014
 D.J. Durkin,Michigan,DC/LB,2015,2015
 Dabo Swinney,Alabama,GA,1993,1995
-Dabo Swinney,Alabama,WR/TE,1996,2000
-Dabo Swinney,Clemson,HC,2003,2008
+Dabo Swinney,Alabama,WR/TE,1996,1996
+Dabo Swinney,Alabama,TE,1997,1997
+Dabo Swinney,Alabama,WR,1998,2000
+Dabo Swinney,Clemson,AHC/WR,2003,2008
 Dabo Swinney,Clemson,HC,2008,2015
 Dameyune Craig,Blount HS,HC,2003,2003
 Dameyune Craig,LSU,GA,2004,2004
@@ -462,7 +485,7 @@ Dan Enos,North Dakota State,OC/QB,2003,2003
 Dan Enos,Cincinnati,QB,2004,2005
 Dan Enos,Michigan State,QB,2006,2006
 Dan Enos,Michigan State,RB,2007,2009
-Dan Enos,Central Michigan,HC,2010,2015
+Dan Enos,Central Michigan,HC,2010,2014
 Dan Enos,Arkansas,OC/QB,2015,2015
 Dan McCarney,Iowa,GA,1977,1978
 Dan McCarney,Iowa,DL,1979,1989
@@ -599,11 +622,11 @@ Dave Schramm,Austin Peay,RB/TE,1988,1988
 Dave Schramm,Nebraska,GA,1989,1989
 Dave Schramm,San Diego State,RC,1990,1991
 Dave Schramm,San Diego State,OL,1992,1992
-Dave Schramm,San Diego State,SAF,1993,1993
+Dave Schramm,San Diego State,S,1993,1993
 Dave Schramm,San Diego State,TE,1994,1996
 Dave Schramm,San Diego State,RB,1997,2001
 Dave Schramm,Texas State,AHC/RB,2002,2002
-Dave Schramm,Montana,OT/TE,2003,2004
+Dave Schramm,Montana,OT/TE/RC,2003,2004
 Dave Schramm,Utah,RB/RC,2005,2008
 Dave Schramm,Utah,OC/QB,2009,2009
 Dave Schramm,Utah,HC,2010,2010
@@ -712,12 +735,12 @@ Dino Babers,Arizona,OC/QB,1998,2000
 Dino Babers,Texas A&M,OC/QB,2001,2002
 Dino Babers,Pittsburgh,RB,2003,2003
 Dino Babers,UCLA,HC,2004,2007
-Dino Babers,Baylor,WR,2008,2008
+Dino Babers,Baylor,WR/RC,2008,2008
 Dino Babers,Baylor,ST/WR,2009,2011
 Dino Babers,Eastern Illinois,HC,2012,2013
 Dino Babers,Bowling Green,HC,2014,2015
-Don Brown,Dartmouth,GA,1982,1982
-Don Brown,Mansfield,GA,1983,1983
+Don Brown,Dartmouth,Assistant,1982,1982
+Don Brown,Mansfield,DC,1983,1983
 Don Brown,Dartmouth,DC,1984,1986
 Don Brown,Yale,DC,1987,1992
 Don Brown,Plymouth State,HC,1993,1995
@@ -727,7 +750,7 @@ Don Brown,Northeastern,HC,2000,2003
 Don Brown,UMass,HC,2004,2008
 Don Brown,Maryland,DC/CB,2009,2010
 Don Brown,Connecticut,DC/CB,2011,2012
-Don Brown,Boston College,DC,2013,2015
+Don Brown,Boston College,DC/LB,2013,2015
 Don Brown,Yale,HC,1992,1992
 Don Pellum,Oregon,GA,1985,1986
 Don Pellum,Willamette,DL,1987,1987
@@ -853,11 +876,13 @@ Gene Chizik,North Carolina,DC,2015,2015
 George O'Leary,Central Islip HS,AHC,1968,1974
 George O'Leary,Central Islip HS,HC,1975,1976
 George O'Leary,Liverpool HS,HC,1977,1979
-George O'Leary,Syracuse,DL,1980,1986
-George O'Leary,Georgia Tech,DC,1987,1991
+George O'Leary,Syracuse,DL,1980,1984
+George O'Leary,Syracuse,AHC/DL,1985,1986
+George O'Leary,Georgia Tech,DC/DL,1987,1991
 George O'Leary,San Diego Chargers,DL,1992,1993
-George O'Leary,Georgia Tech,HC,1994,2001
-George O'Leary,Minnesota Vikings,DL,2002,2002
+George O'Leary,Georgia Tech,HC,1994,1994
+George O'Leary,Georgia Tech,HC,1995,2001
+George O'Leary,Minnesota Vikings,AHC/DL,2002,2002
 George O'Leary,Minnesota Vikings,DC,2003,2003
 George O'Leary,UCF,HC,2004,2015
 Greg Davis,Barbe HS (LA),GA,1973,1974
@@ -913,7 +938,7 @@ Harlon Barnett,Princeton H.S.,DC,2000,2002
 Harlon Barnett,LSU,GA,2003,2003
 Harlon Barnett,Cincinnati,DB,2004,2006
 Harlon Barnett,Michigan State,DB,2007,2014
-Harlon Barnett,Michigan State,DC,2015,2015
+Harlon Barnett,Michigan State,HC,2015,2015
 Hugh Freeze,Briarcrest HS (TN),OC/DB,1992,1994
 Hugh Freeze,Briarcrest HS,TN,1995,2004
 Hugh Freeze,Ole Miss,TE/RC,2005,2007
@@ -1050,6 +1075,11 @@ Jim Chaney,Tennessee,OC,2009,2012
 Jim Chaney,Tennessee,HC,2012,2012
 Jim Chaney,Arkansas,OC/QB,2013,2014
 Jim Chaney,Pittsburgh,OC/QB,2015,2015
+Jim Collins,Central Michigan,GA,1989,1990
+Jim Collins,Illinois Wesleyan,OC,1991,1993
+Jim Collins,Dubuque,HC,1994,1996
+Jim Collins,Capital,OH,1997,2007
+Jim Collins,Saginaw Valley State,HC,2008,2015
 Jim Knowles,Cornell,DL,1988,1988
 Jim Knowles,Cornell,RB,1989,1994
 Jim Knowles,Cornell,LB,1995,1996
@@ -1068,6 +1098,17 @@ Jim L. Mora,Atlanta Falcons,HC,2004,2006
 Jim L. Mora,Seattle Seahawks,AHC/DB,2007,2008
 Jim L. Mora,Seattle Seahawks,HC,2009,2009
 Jim L. Mora,UCLA,HC,2012,2015
+Jim Leavitt,Missouri,GA,1978,1979
+Jim Leavitt,Dubuque,DC,1980,1981
+Jim Leavitt,Morningside,ST,1982,1982
+Jim Leavitt,Morningside,DC,1983,1987
+Jim Leavitt,Iowa,Intern,1988,1988
+Jim Leavitt,Iowa,GA,1989,1989
+Jim Leavitt,Kansas State,LB,1990,1991
+Jim Leavitt,Kansas State,HC,1992,1995
+Jim Leavitt,South Florida,HC,1996,2009
+Jim Leavitt,San Francisco 49ers,LB,2011,2014
+Jim Leavitt,Colorado,DC,2015,2015
 Jim McElwain,Eastern Washington,QB/WR,1987,1994
 Jim McElwain,Montana State,OC/WR/ST,1995,1999
 Jim McElwain,Louisville,WR/ST,2000,2002
@@ -1104,6 +1145,23 @@ John Shoop,Oakland Raiders,QB,2005,2005
 John Shoop,Oakland Raiders,TE,2006,2006
 John Shoop,North Carolina,OC,2007,2011
 John Shoop,Purdue,OC,2013,2015
+John Thompson,Arkansas,GA,1982,1982
+John Thompson,Northwestern State,DC,1983,1986
+John Thompson,Alabama,LB,1987,1987
+John Thompson,Northwestern State,DC,1988,1989
+John Thompson,Louisiana Tech,DC,1990,1991
+John Thompson,Southern Miss,DC,1992,1998
+John Thompson,Memphis,DC,1999,1999
+John Thompson,Arkansas,DC,2000,2001
+John Thompson,Florida,DC/MLB,2002,2002
+John Thompson,East Carolina,HC,2003,2004
+John Thompson,South Carolina,HC,2005,2005
+John Thompson,Ole Miss,DC,2007,2007
+John Thompson,Georgia State,AHC/DC/ILB,2008,2011
+John Thompson,Arkansas State,DC/LB,2012,2013
+John Thompson,Arkansas State,HC,2012,2012
+John Thompson,Arkansas State,HC,2013,2013
+John Thompson,Texas State,DC,2014,2015
 Jon Heacock,Toledo,GA,1983,1983
 Jon Heacock,Steubenville HS (OH),HC,1984,1984
 Jon Heacock,West Liberty,GA,1985,1987
@@ -1140,9 +1198,6 @@ Jonathan Smith,Boise State,QB,2012,2013
 Jonathan Smith,Washington,OC/QB,2014,2015
 Josh Heupel,Oklahoma,GA,2004,2004
 Josh Heupel,Arizona,TE,2005,2005
-Josh Heupel,Oklahoma,QB,2006,2010
-Josh Heupel,Oklahoma,OC,2010,2014
-Josh Heupel,Utah State,OC,2015,2015
 Justin Fuente,Illinois State,QB,2001,2003
 Justin Fuente,Illinois State,QB/OC,2004,2006
 Justin Fuente,TCU,RB,2007,2008
@@ -1275,21 +1330,22 @@ Kyle Whittingham,Utah,HC,2005,2015
 Lance Leipold,Wisconsin-Whitewater,QB,1987,1987
 Lance Leipold,Wisconsin-Whitewater,WR,1988,1988
 Lance Leipold,Doane,GA,1989,1989
-Lance Leipold,WI-Whitewater,GA,1990,1990
+Lance Leipold,Wisconsin-Whitewater,Assistant,1990,1990
 Lance Leipold,Wisconsin,GA,1991,1993
-Lance Leipold,Nebraska-Omaha,GA,1994,2000
-Lance Leipold,Nebraska,GA,2001,2003
+Lance Leipold,Nebraska-Omaha,Assistant,1994,2000
+Lance Leipold,Nebraska,Assistant,2001,2003
 Lance Leipold,Nebraska-Omaha,AHC/OC,2004,2006
 Lance Leipold,Wisconsin-Whitewater,HC,2007,2014
 Lance Leipold,Buffalo,HC,2015,2015
-Lane Kiffin,Fresno State,GA,1997,1998
+Lane Kiffin,Fresno State,Assistant,1997,1998
 Lane Kiffin,Colorado State,GA,1999,1999
 Lane Kiffin,Jacksonville Jaguars,OQC,2000,2000
 Lane Kiffin,USC,TE,2001,2001
-Lane Kiffin,USC,WR,2002,2004
-Lane Kiffin,USC,PGC/OC,2005,2006
+Lane Kiffin,USC,WR,2002,2003
+Lane Kiffin,USC,PGC,2004,2004
+Lane Kiffin,USC,OC,2005,2006
 Lane Kiffin,Oakland Raiders,HC,2007,2008
-Lane Kiffin,University of Tennessee,HC,2009,2009
+Lane Kiffin,Tennessee,HC,2009,2009
 Lane Kiffin,USC,HC,2010,2013
 Lane Kiffin,Alabama,OC/QB,2014,2015
 Larry Coker,Fairfax HS,OK,1971,1976
@@ -1303,24 +1359,6 @@ Larry Coker,Ohio State,QB,1995,1995
 Larry Coker,Miami (FL),OC,1995,2000
 Larry Coker,Miami,FL,2001,2006
 Larry Coker,UTSA,HC,2009,2015
-Larry Coyer,Marshall,GA,1965,1967
-Larry Coyer,Bowling Green,SC,1968,1973
-Larry Coyer,Iowa,DC,1974,1977
-Larry Coyer,Iowa State,DC,1979,1982
-Larry Coyer,Michigan Panthers,DC,1983,1984
-Larry Coyer,Memphis Showboats,DC,1985,1985
-Larry Coyer,UCLA,LB,1987,1989
-Larry Coyer,Houston,SC,1990,1990
-Larry Coyer,Ohio State,SC,1991,1992
-Larry Coyer,East Carolina,DC,1993,1993
-Larry Coyer,New York Jets,DL,1994,1994
-Larry Coyer,Iowa State,DC,1995,1996
-Larry Coyer,Pittsburgh,DC,1997,1999
-Larry Coyer,Denver Broncos,DC,2000,2006
-Larry Coyer,Tampa Bay Buccaneers,DL,2007,2008
-Larry Coyer,Indianapolis Colts,DC,2009,2011
-Larry Coyer,Washington Redskins,Scout,2013,2013
-Larry Coyer,New Mexico State,DC,2014,2015
 Larry Fedora,Austin,GA,1986,1986
 Larry Fedora,Garland HS,TX,1987,1990
 Larry Fedora,Baylor,WR/TE/RB,1991,1996
@@ -1476,6 +1514,14 @@ Matt Campbell,Mount Union,GA,2004,2005
 Matt Campbell,Bowling Green,GA,2006,2008
 Matt Campbell,Toledo,GA,2009,2011
 Matt Campbell,Toledo,HC,2011,2015
+Matt Limegrover,Pittsburg State,DC,1985,1987
+Matt Limegrover,Webb City HS,MO,1988,1990
+Matt Limegrover,Pittsburg State,OC,1991,1993
+Matt Limegrover,Saginaw Valley State,HC,1994,1998
+Matt Limegrover,Emporia State,HC,1999,2000
+Matt Limegrover,Southern Illinois,HC,2001,2007
+Matt Limegrover,Northern Illinois,HC,2008,2010
+Matt Limegrover,Minnesota,HC,2011,2015
 Matt Rhule,Albright,LB,1998,1998
 Matt Rhule,Buffalo,GA,1999,2000
 Matt Rhule,UCLA,GA,2001,2001
@@ -1521,6 +1567,22 @@ Mike Canales,Arizona,OC/QB,2004,2006
 Mike Canales,South Florida,OC/QB,2007,2009
 Mike Canales,North Texas,OC/QB,2010,2010
 Mike Canales,North Texas,HC,2010,2010
+Mike DeBord,Franklin (IN),OL,1982,1983
+Mike DeBord,Fort Hays State,OL,1984,1984
+Mike DeBord,Fort Hays State,OC/QB/WR,1985,1986
+Mike DeBord,Eastern Illinois,OL,1987,1988
+Mike DeBord,Ball State,OL,1988,1989
+Mike DeBord,Colorado State,OL,1990,1991
+Mike DeBord,Northwestern,OL,1992,1992
+Mike DeBord,Michigan,OL,1992,1996
+Mike DeBord,Michigan,OC,1997,1999
+Mike DeBord,Central Michigan,HC,2000,2003
+Mike DeBord,Michigan,ST/RC,2004,2005
+Mike DeBord,Michigan,OC/TE,2006,2007
+Mike DeBord,Seattle Seahawks,HC,2008,2008
+Mike DeBord,Seattle Seahawks,TE,2009,2009
+Mike DeBord,Chicago Bears,TE,2010,2012
+Mike DeBord,Tennessee Volunteers,HC,2015,2015
 Mike Denbrock,Grand Valley State,GA,1986,1987
 Mike Denbrock,Michigan State,GA,1988,1989
 Mike Denbrock,Illinois State,OT/TE,1990,1991
@@ -1595,7 +1657,8 @@ Mike MacIntyre,Georgia,GA,1990,1991
 Mike MacIntyre,Davidson,DC,1992,1992
 Mike MacIntyre,Tennessee-Martin,DC,1993,1996
 Mike MacIntyre,Temple,DC,1997,1998
-Mike MacIntyre,Mississippi,WR/DB,1999,2002
+Mike MacIntyre,Ole Miss,WR,1999,2000
+Mike MacIntyre,Ole Miss,DB,2001,2002
 Mike MacIntyre,Dallas Cowboys,DB,2003,2006
 Mike MacIntyre,New York Jets,DB,2007,2007
 Mike MacIntyre,Duke,DC,2008,2009
@@ -1682,11 +1745,11 @@ Noel Mazzone,TCU,QB,1987,1991
 Noel Mazzone,Minnesota,QB,1992,1994
 Noel Mazzone,Ole Miss,OC/QB,1995,1998
 Noel Mazzone,Auburn,OC,1999,2001
-Noel Mazzone,Oregon State,OC,2002,2002
+Noel Mazzone,Oregon State,RB/ST,2002,2002
 Noel Mazzone,NC State,OC/TE,2003,2004
 Noel Mazzone,Ole Miss,OC/QB,2005,2005
 Noel Mazzone,New York Jets,WR,2006,2008
-Noel Mazzone,Panther Creek HS (NC),OC,2009,2009
+Noel Mazzone,New York Jets,Consultant,2009,2009
 Noel Mazzone,Arizona State,OC,2010,2011
 Noel Mazzone,UCLA,OC,2012,2015
 Norm Chow,BYU,GA,1973,1974
@@ -1804,9 +1867,9 @@ Pete Kwiatkowski,Boise State,DL,2006,2009
 Pete Kwiatkowski,Boise State,DC,2010,2013
 Pete Kwiatkowski,Washington,DC,2014,2015
 Pete Lembo,Albany,GA,1992,1993
-Pete Lembo,Dartmouth,GA,1994,1996
-Pete Lembo,Hampden-Sydney,GA,1997,1997
-Pete Lembo,Lehigh,GA,1998,2000
+Pete Lembo,Dartmouth,Assistant,1994,1996
+Pete Lembo,Hampden-Sydney,Assistant,1997,1997
+Pete Lembo,Lehigh,Assistant,1998,2000
 Pete Lembo,Lehigh,HC,2001,2005
 Pete Lembo,Elon,HC,2006,2010
 Pete Lembo,Ball State,HC,2011,2015
@@ -1875,19 +1938,32 @@ Rick Stockstill,Clemson,WR/QB,1989,2002
 Rick Stockstill,East Carolina,OC,2003,2003
 Rick Stockstill,South Carolina,WR,2004,2005
 Rick Stockstill,Middle Tennessee,HC,2006,2015
+Robb Smith,Iowa,GA/QC,1999,2001
+Robb Smith,Maine,DB,2002,2004
+Robb Smith,Maine,ST/LB,2005,2005
+Robb Smith,Maine,AHC/DC,2006,2008
+Robb Smith,Rutgers,ST/OLB,2009,2009
+Robb Smith,Rutgers,ST/CB,2010,2010
+Robb Smith,Rutgers,ST/LB,2011,2011
+Robb Smith,Rutgers,DC/DB,2012,2012
+Robb Smith,Tampa Bay Buccaneers,LB,2013,2013
+Robb Smith,Arkansas,DC/QB,2014,2015
 Robert Anae,Hawaii,GA,1986,1987
 Robert Anae,BYU,GA,1990,1991
 Robert Anae,Ricks College,OL,1992,1995
 Robert Anae,Boise State,OL,1996,1996
-Robert Anae,UNLV,OL,1997,1998
+Robert Anae,UNLV,OL,1997,1997
+Robert Anae,UNLV,RGC/OL,1998,1998
 Robert Anae,Texas Tech,OL,2000,2004
-Robert Anae,BYU,OC,2005,2010
-Robert Anae,Arizona,OL,2011,2012
-Robert Anae,BYU,OC,2013,2015
+Robert Anae,BYU,OC/IWR,2005,2010
+Robert Anae,Arizona,RGC/OL,2011,2011
+Robert Anae,Arizona,OL,2012,2012
+Robert Anae,BYU,AHC/OC/OL,2013,2015
 Robert Prunty,Gretna High School,HC,1993,2001
 Robert Prunty,Hargrave Military Academy,HC,2002,2009
 Robert Prunty,Texas Tech,OLB/DEs,2010,2012
-Robert Prunty,Cincinnati,HC,2013,2013
+Robert Prunty,Cincinnati,AHC/DE,2013,2013
+Robert Prunty,Cincinnati,HC,2014,2015
 Rocky Long,New Mexico,GA,1972,1973
 Rocky Long,Eldorado HS,NM,1974,1975
 Rocky Long,New Mexico,HC,1978,1978
@@ -2015,7 +2091,7 @@ Sonny Cumbie,Texas Tech,HC,2013,2013
 Sonny Cumbie,TCU,HC,2014,2015
 Sonny Dykes,J. J. Pearce HS (TX),RB,1994,1994
 Sonny Dykes,Navarro,RB,1995,1995
-Sonny Dykes,Navarro,PG/QB,1996,1996
+Sonny Dykes,Navarro,PGC/QB,1996,1996
 Sonny Dykes,Kentucky,GA/TE,1997,1997
 Sonny Dykes,Northeast Louisiana,WR,1998,1998
 Sonny Dykes,Kentucky,ST/WR,1999,1999
@@ -2028,11 +2104,12 @@ Sonny Dykes,Monahans HS (TX),GA,1994,1994
 Steve Addazio,Western Connecticut,OL,1985,1987
 Steve Addazio,Cheshire High School,HC,1988,1994
 Steve Addazio,Syracuse,OL/TE,1995,1998
-Steve Addazio,Notre Dame,OL/TE/ST,1999,2001
-Steve Addazio,Indiana,OC/OL,2002,2004
-Steve Addazio,Florida,OL/TE,2005,2006
-Steve Addazio,Florida,OL/AHC,2007,2008
-Steve Addazio,Florida,OC,2009,2010
+Steve Addazio,Notre Dame,T/TE/ST,1999,2001
+Steve Addazio,Indiana,OL,2002,2003
+Steve Addazio,Indiana,OC/OL,2004,2004
+Steve Addazio,Florida,T/TE,2005,2006
+Steve Addazio,Florida,AHC/OL,2007,2008
+Steve Addazio,Florida,AHC/OC/OL,2009,2010
 Steve Addazio,Temple,HC,2011,2012
 Steve Addazio,Boston College,HC,2013,2015
 Steve Fairchild,SD Mesa CC,OC/QB/WR,1982,1983
@@ -2101,13 +2178,15 @@ Tim Beckman,Ohio State,CB,2005,2006
 Tim Beckman,Oklahoma State,DC,2007,2008
 Tim Beckman,Toledo,HC,2009,2011
 Tim Beckman,Illinois,HC,2012,2015
-Tim DeRuyter,Air Force,GA,1991,1994
-Tim DeRuyter,Ohio,DC/DB,1995,1998
-Tim DeRuyter,Navy,DB,1999,2001
+Tim DeRuyter,Air Force,Assistant,1989,1992
+Tim DeRuyter,Ohio,DC,1995,1998
+Tim DeRuyter,Navy,DC,1999,2000
+Tim DeRuyter,Navy,DB,2001,2001
 Tim DeRuyter,Ohio,DC/DB,2002,2004
 Tim DeRuyter,Nevada,HC,2005,2006
-Tim DeRuyter,Air Force,DC/S,2007,2009
-Tim DeRuyter,Texas A&M,DC,2010,2011
+Tim DeRuyter,Air Force,DC/S,2007,2007
+Tim DeRuyter,Air Force,AHC/DC/S,2008,2009
+Tim DeRuyter,Texas A&M,AHC/DC,2010,2011
 Tim DeRuyter,Texas A&M,HC,2011,2011
 Tim DeRuyter,Fresno State,HC,2012,2015
 Tim Drevno,Cal State Fullerton,GA,1991,1992
@@ -2181,9 +2260,12 @@ Tom Masella,Louisiana Tech,DC,1999,2001
 Tom Masella,UMass,DC,2002,2003
 Tom Masella,Central Connecticut,HC,2004,2005
 Tom Masella,Fordham,HC,2006,2011
-Tommy Tuberville,Arkansas State,DE/LB,1980,1984
-Tommy Tuberville,Miami (FL),GA,1986,1993
-Tommy Tuberville,Texas A&M,DC,1994,1994
+Tommy Tuberville,Hermitage High School (AR),Assistant,1976,1977
+Tommy Tuberville,Hermitage High School,AR,1978,1979
+Tommy Tuberville,Arkansas State,DB/NG/LB,1980,1984
+Tommy Tuberville,Miami (FL),Assistant,1986,1992
+Tommy Tuberville,Miami (FL),DC,1993,1993
+Tommy Tuberville,Texas A&M,DC/LB,1994,1994
 Tommy Tuberville,Ole Miss,HC,1995,1998
 Tommy Tuberville,Auburn,HC,1999,2008
 Tommy Tuberville,Texas Tech,HC,2010,2012
@@ -2194,7 +2276,7 @@ Tony Franklin,Kentucky,RB,1997,1999
 Tony Franklin,Kentucky,OC/WR,2000,2000
 Tony Franklin,Lexington Horsemen,HC,2003,2003
 Tony Franklin,Troy,OC,2006,2007
-Tony Franklin,Auburn,OC/QB,2007,2008
+Tony Franklin,Auburn,OC/QB,2008,2008
 Tony Franklin,Middle Tennessee State,OC,2009,2009
 Tony Franklin,Louisiana Tech,OC,2010,2012
 Tony Franklin,California Golden Bears,OC,2013,2015
@@ -2219,11 +2301,13 @@ Tracy Claeys,Emporia State,DC,1999,2000
 Tracy Claeys,Southern Illinois,DC,2001,2007
 Tracy Claeys,Northern Illinois,DC,2008,2010
 Tracy Claeys,Minnesota,DC,2011,2015
-Troy Calhoun,Air Force,GA,1989,1994
-Troy Calhoun,Ohio,OC/QB,1995,2000
-Troy Calhoun,Wake Forest,OC/QB,2001,2003
-Troy Calhoun,Denver Broncos,GA,2003,2005
-Troy Calhoun,Houston Texans,OC,2006,2006
+Troy Calhoun,Air Force,Assistant,1989,1990
+Troy Calhoun,Air Force,RC,1993,1994
+Troy Calhoun,Ohio,QB,1995,1996
+Troy Calhoun,Ohio,OC/QB,1997,2000
+Troy Calhoun,Wake Forest,OC/QB,2001,2002
+Troy Calhoun,Denver Broncos,Assistant,2003,2005
+Troy Calhoun,Houston Texans,OC/QB,2006,2006
 Troy Calhoun,Air Force,HC,2007,2015
 Urban Meyer,St. Xavier HS (OH),DB,1985,1985
 Urban Meyer,Ohio State,TE,1986,1986
@@ -2268,8 +2352,9 @@ Vincent Brown,Connecticut,HC,2014,2015
 Will Muschamp,Auburn,GA,1995,1996
 Will Muschamp,West Georgia,DB,1998,1998
 Will Muschamp,Eastern Kentucky,DB,1999,1999
-Will Muschamp,Valdosta State,DC/DB,2000,2000
-Will Muschamp,LSU,DC/LB,2001,2004
+Will Muschamp,Valdosta State,DC,2000,2000
+Will Muschamp,LSU,LB,2001,2001
+Will Muschamp,LSU,DC/LB,2002,2004
 Will Muschamp,Miami Dolphins,AHC,2005,2005
 Will Muschamp,Auburn,DC/DB,2006,2007
 Will Muschamp,Texas,DC/LB,2008,2010
