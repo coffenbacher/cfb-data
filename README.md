@@ -1,8 +1,8 @@
 # Welcome to CFB Data
 
-CFB data is an open-source repository of college football data. It is a combination of original data from contributors and automatic extraction from sites like Wikipedia.
+CFB data is an open-source repository of FBS college football data. It is a combination of original data from contributors and automatic extraction from sites like Wikipedia.
 
-Data is provided in CSV format and is largely denormalized for ease of use.
+Data is provided in CSV and JSON format and is largely denormalized for ease of use.
 
 ## Why CFB Data?
 College football is one of the great strategy sports of the world, producing an immense amount of data, but there is no simple-to-use and open repository for it to reside.
@@ -11,6 +11,8 @@ College football is one of the great strategy sports of the world, producing an 
 
 Here is a list of the provided datasets and information on using them.
 
+* **Teams** - a CSV, sourced from Wikipedia, of all of the teams, their locations, and mascots.
+* **Stadiums** - a CSV, sourced from Wikipedia, of all of the stadiums, their locations, and capacities.
 * **Coach Tenures** - a CSV, sourced from Wikipedia, of coaches and their respective tenures at schools.
 
 ## Roadmap
