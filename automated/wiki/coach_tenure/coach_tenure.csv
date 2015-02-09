@@ -113,12 +113,16 @@ Bob DeBesse,Sam Houston State,OC,2010,2011
 Bob DeBesse,New Mexico,OC,2012,2013
 Bob Diaco,Iowa,GA,1996,1997
 Bob Diaco,Western Illinois,RB/ST,1999,2000
-Bob Diaco,Eastern Michigan,RB/LB,2001,2003
+Bob Diaco,Eastern Michigan,RB/LB,2001,2001
+Bob Diaco,Eastern Michigan,LB/ST,2002,2002
+Bob Diaco,Eastern Michigan,OLB/ST,2003,2003
 Bob Diaco,Western Michigan,LB/ST,2004,2004
 Bob Diaco,Central Michigan,HC,2005,2005
 Bob Diaco,Virginia,LB/ST,2006,2008
-Bob Diaco,Cincinnati,DC,2009,2009
-Bob Diaco,Notre Dame,DC/LB,2010,2013
+Bob Diaco,Cincinnati,DC/ILB,2009,2009
+Bob Diaco,Notre Dame,DC/ILB,2010,2010
+Bob Diaco,Notre Dame,DC/LB,2011,2011
+Bob Diaco,Notre Dame,AHC/DC/LB,2012,2013
 Bob Diaco,Connecticut,HC,2014,2015
 Bob Stoops,Iowa,GA,1983,1984
 Bob Stoops,Iowa,HC,1985,1987
@@ -639,15 +643,18 @@ David Bailiff,Southwest Texas State,DC,1997,2000
 David Bailiff,TCU,DC,2001,2003
 David Bailiff,Texas State,HC,2004,2006
 David Bailiff,Rice,HC,2007,2015
-David Cutcliffe,Banks HS (AL),GA,1976,1979
+David Cutcliffe,Banks HS (AL),Assistant,1976,1979
 David Cutcliffe,Banks HS,AL,1980,1981
-David Cutcliffe,Tennessee,GA,1982,1982
-David Cutcliffe,Tennessee,TE,1983,1989
-David Cutcliffe,Tennessee,QB,1990,1993
-David Cutcliffe,Tennessee,OC/QB,1993,1998
-David Cutcliffe,Ole Miss,HC,1999,2004
+David Cutcliffe,Tennessee,Assistant,1982,1982
+David Cutcliffe,Tennessee,TE,1983,1988
+David Cutcliffe,Tennessee,RB,1989,1989
+David Cutcliffe,Tennessee,QB,1990,1991
+David Cutcliffe,Tennessee,PGC/QB,1992,1992
+David Cutcliffe,Tennessee,OC/QB,1993,1994
+David Cutcliffe,Tennessee,AHC/OC/QB,1995,1998
+David Cutcliffe,Ole Miss,HC,1998,2004
 David Cutcliffe,Notre Dame,AHC/QB,2005,2005
-David Cutcliffe,Tennessee,OC,2006,2007
+David Cutcliffe,Tennessee,AHC/OC/QB,2006,2007
 David Cutcliffe,Duke,HC,2008,2015
 David Duggan,Allegheny College,LB,1987,1987
 David Duggan,New Hampshire,LB,1988,1991
@@ -1330,10 +1337,10 @@ Kyle Whittingham,Utah,HC,2005,2015
 Lance Leipold,Wisconsin-Whitewater,QB,1987,1987
 Lance Leipold,Wisconsin-Whitewater,WR,1988,1988
 Lance Leipold,Doane,GA,1989,1989
-Lance Leipold,Wisconsin-Whitewater,Assistant,1990,1990
+Lance Leipold,Wisconsin-Whitewater,GA,1990,1990
 Lance Leipold,Wisconsin,GA,1991,1993
-Lance Leipold,Nebraska-Omaha,Assistant,1994,2000
-Lance Leipold,Nebraska,Assistant,2001,2003
+Lance Leipold,Nebraska-Omaha,GA,1994,2000
+Lance Leipold,Nebraska,GA,2001,2003
 Lance Leipold,Nebraska-Omaha,AHC/OC,2004,2006
 Lance Leipold,Wisconsin-Whitewater,HC,2007,2014
 Lance Leipold,Buffalo,HC,2015,2015
@@ -1514,14 +1521,6 @@ Matt Campbell,Mount Union,GA,2004,2005
 Matt Campbell,Bowling Green,GA,2006,2008
 Matt Campbell,Toledo,GA,2009,2011
 Matt Campbell,Toledo,HC,2011,2015
-Matt Limegrover,Pittsburg State,DC,1985,1987
-Matt Limegrover,Webb City HS,MO,1988,1990
-Matt Limegrover,Pittsburg State,OC,1991,1993
-Matt Limegrover,Saginaw Valley State,HC,1994,1998
-Matt Limegrover,Emporia State,HC,1999,2000
-Matt Limegrover,Southern Illinois,HC,2001,2007
-Matt Limegrover,Northern Illinois,HC,2008,2010
-Matt Limegrover,Minnesota,HC,2011,2015
 Matt Rhule,Albright,LB,1998,1998
 Matt Rhule,Buffalo,GA,1999,2000
 Matt Rhule,UCLA,GA,2001,2001
@@ -2309,6 +2308,16 @@ Troy Calhoun,Wake Forest,OC/QB,2001,2002
 Troy Calhoun,Denver Broncos,Assistant,2003,2005
 Troy Calhoun,Houston Texans,OC/QB,2006,2006
 Troy Calhoun,Air Force,HC,2007,2015
+Tyson Summers,Tift County High School (GA),DB,2002,2002
+Tyson Summers,Presbyterian,DB,2003,2003
+Tyson Summers,Troy,GA/WR,2004,2004
+Tyson Summers,Georgia,GA/DB,2005,2005
+Tyson Summers,Georgia Southern,S,2006,2006
+Tyson Summers,UAB,LB,2007,2010
+Tyson Summers,UAB,HC,2011,2011
+Tyson Summers,UCF,LB,2012,2013
+Tyson Summers,UCF,DC,2014,2014
+Tyson Summers,Colorado St.,DC/S,2015,2015
 Urban Meyer,St. Xavier HS (OH),DB,1985,1985
 Urban Meyer,Ohio State,TE,1986,1986
 Urban Meyer,Ohio State,WR,1987,1987

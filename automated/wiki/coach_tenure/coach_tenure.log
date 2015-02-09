@@ -1,4 +1,5 @@
 VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
+WARNING:root:ISSUE DETECTED: Frank Verducci is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Dave Nichol is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Rick Smith is a football page but no mention of coach
 WARNING:root:ISSUE DETECTED: Rick Smith could not be found in disambiguation page
@@ -34,13 +35,14 @@ WARNING:root:ISSUE DETECTED: Mike Smith is valid page but no information extract
 WARNING:root:ISSUE DETECTED: Tony Gibson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Tim Banks is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Jim Harbaugh is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Matt Limegrover is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Hank Hughes is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Mick McCall is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Tim Beck could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Ed Warriner is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: John Donovan is not about a football coach and there is no disambiguation page
-WARNING:root:ISSUE DETECTED: Brent Pry is valid page but no information extracted
 VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
+WARNING:root:ISSUE DETECTED: Brent Pry is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Brian Wright could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Roc Bellantoni is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Steve Shankweiler is valid page but no information extracted
@@ -72,7 +74,6 @@ WARNING:root:ISSUE DETECTED: Steve Russ is valid page but no information extract
 WARNING:root:ISSUE DETECTED: Mike Sanford Jr. is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Marcel Yates is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Will Friend is not about a football coach and there is no disambiguation page
-WARNING:root:ISSUE DETECTED: Tyson Summers is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Nick Toth is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Aaron Price is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Kevin Cosgrove is not about a football coach and there is no disambiguation page
@@ -83,9 +84,9 @@ WARNING:root:ISSUE DETECTED: Brian Lindgren is not about a football coach and th
 WARNING:root:ISSUE DETECTED: Lance Anderson is a football page but no mention of coach
 WARNING:root:ISSUE DETECTED: Lance Anderson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Justin Wilcox is valid page but no information extracted
+VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Jim Harding is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: John Pease is valid page but no information extracted
-VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Alex Grinch is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Geoff Collins is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Brian Schottenheimer is valid page but no information extracted
@@ -115,6 +116,10 @@ WARNING:root:ISSUE DETECTED: Bryant Vincent is valid page but no information ext
 WARNING:root:ISSUE DETECTED: Travis Pearson is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Jeff Conway is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Mike Schultz could not be found in disambiguation page
+VERBOSE:pywiki:Pausing due to database lag: Waiting for 10.64.32.21: 8 seconds lagged
+INFO:pywiki:Sleeping for 5.0 seconds, 2015-02-09 19:13:11
+VERBOSE:pywiki:Pausing due to database lag: Waiting for 10.64.32.21: 8 seconds lagged
+INFO:pywiki:Sleeping for 5.0 seconds, 2015-02-09 19:13:16
 WARNING:root:ISSUE DETECTED: Matt Moore is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'football', 'name': u'Don Brown', 'startyear': u'football', 'team': u''}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Don Brown', 'startyear': u'', 'team': u''}
