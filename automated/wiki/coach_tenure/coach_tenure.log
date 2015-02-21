@@ -1,5 +1,5 @@
 VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
-WARNING:root:ISSUE DETECTED: Frank Verducci is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Frank Verducci is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Dave Nichol is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Rick Smith is a football page but no mention of coach
 WARNING:root:ISSUE DETECTED: Rick Smith could not be found in disambiguation page
@@ -13,6 +13,7 @@ WARNING:root:ISSUE DETECTED: Eric Price is not about a football coach and there 
 WARNING:root:ISSUE DETECTED: Jason Rollins is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Brian Norwood is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Bill Young is not about a football coach and there is no disambiguation page
+WARNING:root:ISSUE DETECTED: Todd Fitch is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Tony Elliott is a football page but no mention of coach
 WARNING:root:ISSUE DETECTED: Tony Elliott could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Jeff Scott is not about a football coach and there is no disambiguation page
@@ -34,6 +35,8 @@ WARNING:root:ISSUE DETECTED: Glenn Spencer is not about a football coach and the
 WARNING:root:ISSUE DETECTED: Mike Smith is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Tony Gibson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Tim Banks is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Mike Phair is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Keith Dudzinski is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Jim Harbaugh is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Matt Limegrover is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Hank Hughes is not about a football coach and there is no disambiguation page
@@ -41,11 +44,12 @@ WARNING:root:ISSUE DETECTED: Mick McCall is valid page but no information extrac
 WARNING:root:ISSUE DETECTED: Tim Beck could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Ed Warriner is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: John Donovan is not about a football coach and there is no disambiguation page
-VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Brent Pry is valid page but no information extracted
+VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Brian Wright could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Roc Bellantoni is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Steve Shankweiler is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Matt House is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Blake Baker is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Doc Holliday is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Steve Ellis could not be found in disambiguation page
@@ -56,8 +60,9 @@ WARNING:root:ISSUE DETECTED: Kevin Brown could not be found in disambiguation pa
 WARNING:root:ISSUE DETECTED: Tyson Helton is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Buddy Green is a football page but no mention of coach
 WARNING:root:ISSUE DETECTED: Buddy Green could not be found in disambiguation page
+WARNING:root:ISSUE DETECTED: Mike Sanford Jr. is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Kevin Kelly is valid page but no information extracted
-WARNING:root:ISSUE DETECTED: Kim McCloud is not about a football coach and there is no disambiguation page
+WARNING:root:ISSUE DETECTED: Andy Kotelnicki is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: John Bonamego is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Brad McCaslin is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Brian George is not about a football coach and there is no disambiguation page
@@ -67,16 +72,18 @@ WARNING:root:ISSUE DETECTED: Bob Cole could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Jay Niemann is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Tim Albin is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Jimmy Burrow is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Louis Ayeni is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Kirk Ciarocca is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Ed Pinkham is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Clay Hendrix is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Steve Russ is valid page but no information extracted
-WARNING:root:ISSUE DETECTED: Mike Sanford Jr. is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Marcel Yates is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Will Friend is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Nick Toth is not about a football coach and there is no disambiguation page
-WARNING:root:ISSUE DETECTED: Aaron Price is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Don Bailey could not be found in disambiguation page
+WARNING:root:ISSUE DETECTED: Tom Mason is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Kevin Cosgrove is not about a football coach and there is no disambiguation page
+WARNING:root:ISSUE DETECTED: Tony Sanchez is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Luke Wells is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Brent Vigen is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Chris Ball is not about a football coach and there is no disambiguation page
@@ -84,9 +91,9 @@ WARNING:root:ISSUE DETECTED: Brian Lindgren is not about a football coach and th
 WARNING:root:ISSUE DETECTED: Lance Anderson is a football page but no mention of coach
 WARNING:root:ISSUE DETECTED: Lance Anderson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Justin Wilcox is valid page but no information extracted
-VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Jim Harding is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: John Pease is valid page but no information extracted
+VERBOSE:pywiki:Found 1 wikipedia:en processes running, including this one.
 WARNING:root:ISSUE DETECTED: Alex Grinch is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Geoff Collins is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Brian Schottenheimer is valid page but no information extracted
@@ -109,17 +116,13 @@ WARNING:root:ISSUE DETECTED: Jack Curtis could not be found in disambiguation pa
 WARNING:root:ISSUE DETECTED: Jay Johnson could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Melvin Smith could not be found in disambiguation page
 WARNING:root:ISSUE DETECTED: Steve Farmer could not be found in disambiguation page
-WARNING:root:ISSUE DETECTED: Troy Reffett is valid page but no information extracted
+WARNING:root:ISSUE DETECTED: Travis Niekamp is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Zane Vance is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Joey Jones is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Bryant Vincent is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: Travis Pearson is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Jeff Conway is not about a football coach and there is no disambiguation page
 WARNING:root:ISSUE DETECTED: Mike Schultz could not be found in disambiguation page
-VERBOSE:pywiki:Pausing due to database lag: Waiting for 10.64.32.21: 8 seconds lagged
-INFO:pywiki:Sleeping for 5.0 seconds, 2015-02-09 19:13:11
-VERBOSE:pywiki:Pausing due to database lag: Waiting for 10.64.32.21: 8 seconds lagged
-INFO:pywiki:Sleeping for 5.0 seconds, 2015-02-09 19:13:16
 WARNING:root:ISSUE DETECTED: Matt Moore is valid page but no information extracted
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'football', 'name': u'Don Brown', 'startyear': u'football', 'team': u''}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Don Brown', 'startyear': u'', 'team': u''}
@@ -131,6 +134,7 @@ WARNING:root:ISSUE DETECTED: {'position': u'DC', 'endyear': u'94', 'name': u'Mar
 WARNING:root:ISSUE DETECTED: {'position': u'Sec', 'endyear': u'98', 'name': u'Mark Banker', 'startyear': u'1997', 'team': u'Oregon State Beavers'}
 WARNING:root:ISSUE DETECTED: {'position': u'DC', 'endyear': u'01', 'name': u'Mark Banker', 'startyear': u'1999', 'team': u'San Diego Chargers'}
 WARNING:root:ISSUE DETECTED: {'position': u'DB/RC', 'endyear': u'08', 'name': u'Chris Ash', 'startyear': u'2007', 'team': u'San Diego State'}
+WARNING:root:ISSUE DETECTED: {'position': u'OC/QB', 'endyear': u' present', 'name': u'Ben McDaniels', 'startyear': u'2015', 'team': u'Rutgers'}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Willie Simmons', 'startyear': u'2015', 'team': u'Prairie View A&M'}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Mike Canales', 'startyear': u'2011', 'team': u'North Texas'}
 WARNING:root:ISSUE DETECTED: {'position': u'DC/LB', 'endyear': u'', 'name': u'David Duggan', 'startyear': u'2013', 'team': u'Southern Miss'}
@@ -155,4 +159,4 @@ WARNING:root:ISSUE DETECTED: {'position': u'QB/WR', 'endyear': u'91', 'name': u'
 WARNING:root:ISSUE DETECTED: {'position': u'OC/WR/QB', 'endyear': u'94', 'name': u'Andy Ludwig', 'startyear': u'1993', 'team': u'Augustana'}
 WARNING:root:ISSUE DETECTED: {'position': u'QB', 'endyear': u'96', 'name': u'Andy Ludwig', 'startyear': u'1995', 'team': u'Boise State'}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'1989\n* 1990\n* 1991', 'name': u'Trent Miles', 'startyear': u'{{plainlist |\n* 1987\n* 1988', 'team': u''}
-WARNING:root:ISSUE DETECTED: {'position': u'QB', 'endyear': u'1983', 'name': u'Todd Berry', 'startyear': u'1983', 'team': u'Tennessee (TE)Tulsa (WR)Oklahoma State'}
+WARNING:root:ISSUE DETECTED: {'position': u'GA', 'endyear': u'1983', 'name': u'Todd Berry', 'startyear': u'1983', 'team': u'Tennessee (TE)Tulsa (WR)Oklahoma State'}
