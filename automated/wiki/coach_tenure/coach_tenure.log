@@ -139,7 +139,6 @@ WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Willie
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Mike Canales', 'startyear': u'2011', 'team': u'North Texas'}
 WARNING:root:ISSUE DETECTED: {'position': u'DC/LB', 'endyear': u'', 'name': u'David Duggan', 'startyear': u'2013', 'team': u'Southern Miss'}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'1989', 'name': u'Tom Masella', 'startyear': u'1985', 'team': u''}
-WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Tom Masella', 'startyear': u'2012', 'team': u'Wagner'}
 WARNING:root:ISSUE DETECTED: {'position': u'OC/QB', 'endyear': u'', 'name': u'Dave Schramm', 'startyear': u'2012', 'team': u'Fresno State'}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'', 'name': u'Brian Polian', 'startyear': u'2013', 'team': u'Nevada'}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'present <!-- kent baer named interim for military bowl -->', 'name': u'Ron Caragher', 'startyear': u'2013', 'team': u'San Jose State'}
