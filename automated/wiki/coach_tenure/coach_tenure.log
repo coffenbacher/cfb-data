@@ -159,3 +159,6 @@ WARNING:root:ISSUE DETECTED: {'position': u'OC/WR/QB', 'endyear': u'94', 'name':
 WARNING:root:ISSUE DETECTED: {'position': u'QB', 'endyear': u'96', 'name': u'Andy Ludwig', 'startyear': u'1995', 'team': u'Boise State'}
 WARNING:root:ISSUE DETECTED: {'position': 'HC', 'endyear': u'1989\n* 1990\n* 1991', 'name': u'Trent Miles', 'startyear': u'{{plainlist |\n* 1987\n* 1988', 'team': u''}
 WARNING:root:ISSUE DETECTED: {'position': u'GA', 'endyear': u'1983', 'name': u'Todd Berry', 'startyear': u'1983', 'team': u'Tennessee (TE)Tulsa (WR)Oklahoma State'}
+VERBOSE:pywiki:Dropped throttle(s).
+VERBOSE:pywiki:Waiting for 1 network thread(s) to finish. Press ctrl-c to abort
+VERBOSE:pywiki:All threads finished.
